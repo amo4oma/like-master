@@ -59,7 +59,7 @@ a, a:hover, button, button:hover, .btnborder, .btntop {
     border-color: #ffffff;
     margin: 0; }
   .button.small {
-    padding: 14px 0;
+    margin: 20px;
     font-size: 12px;
     min-width: 145px; }
   .button:hover {
@@ -138,7 +138,7 @@ a, a:hover, button, button:hover, .btnborder, .btntop {
       color: #6a6a6a;
       -webkit-transition: all 0.3s ease;
       transition: all 0.3s ease;
-      margin: 0 0 30px; }
+      margin: 30px; }
       .four-elements .col-md-3 h3:before {
         content: "";
         width: 20%;
